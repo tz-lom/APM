@@ -1,0 +1,22 @@
+{
+    "name": "apm/apm",
+    "description": "Abstract Path Matcher, lightweight library for matching routes in different formats",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nuzhdin Urii",
+            "email": "nuzhdin.urii@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "support": {
+        "source": "http://github.com/tz-lom/APM"
+    },
+    "autoload": {
+        "psr-0": {
+            "APM": "src/"
+        }
+    }
+}
